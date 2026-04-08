@@ -23,7 +23,7 @@ Using a **Medallion Architecture** on **Azure Synapse Analytics**, I transformed
 3.  **Customer Psychology:** Correlated long-term payment installments with a slight decline in review scores ("Repayment Pain").
 ### 📈 Business Deep-Dive
 <details>
-  1. Seller Performance
+1. Seller Performance
 Analysis: Used Pareto (80/20) analysis to evaluate marketplace resilience.
 
 Finding: Discovered that Olist has a very healthy "Long-tail" market where the top 20% of GMV is spread across over 500+ sellers, meaning low platform dependency on specific "Super-Sellers".
