@@ -31,13 +31,11 @@ Finding: Discovered that Olist has a very healthy "Long-tail" market where the t
 Strategic Suggestion: Instead of aggressive individual account management, the platform should focus on automated policy enforcement and scaling seller tools, as the revenue is decentralized.
 
 2. Logistics Efficiency 
-Analysis: Calculated the Efficiency Ratio (State Average / National Average) to benchmark delivery speeds.
+Analysis: Data reveals that remote regions have lower delay rates than core metropolitan areas.
 
-Finding: Identified that states like AL (Alagoas) and MA (Maranhão) have ratios > 1.4, indicating they are 40% slower than the national average.
+Finding: This is driven by overly conservative "Estimated Delivery Date" (EDD) algorithms for remote zones.
 
-Strategic Suggestion: * Short-term: Adjust the "Estimated Delivery Date" algorithm for these specific states to manage customer expectations and reduce negative reviews.
-
-Long-term: Recommend the establishment of Regional Fulfillment Centers in North-East Brazil to decentralize inventory from the South-East (SP/RJ).
+Strategic Recommendation: Olist should recalibrate the EDD for core regions to reduce "false-positive" delays and improve customer trust in urban markets.
 
 3. Payment & Satisfaction 
 Analysis: Correlated payment_installments with review_score.
