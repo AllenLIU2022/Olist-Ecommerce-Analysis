@@ -1,5 +1,5 @@
 # 🇧🇷 Olist E-commerce End-to-End Analysis
-**Language / Langue :** [English](README.md) | [Français](README_FR.md)
+**Language / Langue :** [English](README.md) | [Français](README_FR.md) | [日本語](README_JP.md)
 
 ## 📌 Project Overview
 This project performs an end-to-end data engineering and business intelligence analysis on the **Olist E-commerce dataset** (Brazilian marketplace). 
