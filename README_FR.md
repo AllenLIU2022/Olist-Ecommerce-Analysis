@@ -13,7 +13,7 @@ Ce projet consiste en une analyse complète (End-to-End) des données de la mark
 * **Performance des Vendeurs :** Analyse de la loi de Pareto montrant une marketplace démocratique et résiliente.
 * **Optimisation Logistique :** Identification des zones géographiques nécessitant des centres de distribution pour réduire les délais de livraison.
 * **Analyse du Paiement :** Étude de l'impact des paiements échelonnés sur la satisfaction client (NPS).
-"Pour une analyse détaillée des recommandations stratégiques, veuillez consulter le README principal."
+## Pour une analyse détaillée des recommandations stratégiques, veuillez consulter le README principal.
 
 ## 🛠️ Compétences Démontrées
 * Data Engineering avec **Azure Synapse** & **PySpark**.
