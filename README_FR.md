@@ -12,7 +12,7 @@ Ce projet consiste en une analyse complète (End-to-End) des données de la mark
 ## 💡 Insights Stratégiques Extraits
 * **Performance des Vendeurs :** Analyse de la loi de Pareto montrant une marketplace démocratique et résiliente.
 * **Logistics Paradoxe:** L'analyse montre que les régions éloignées ont des taux de retard inférieurs aux métropoles.
-* **Analyse du Paiement :** Étude de l'impact des paiements échelonnés sur la satisfaction client (NPS).
+* **Analyse du Paiement :** Plus de 50 % des commandes utilisent le paiement en plusieurs fois, avec un pic notable à 10 mensualités.
 * (Pour une analyse détaillée des recommandations stratégiques, veuillez consulter le README principal.)
 
 ## 🛠️ Compétences Démontrées
